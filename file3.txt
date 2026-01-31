@@ -1,0 +1,5 @@
+Types of VCS –
+
+Local VCS - Saves versions on one computer
+Centralized VCS - One central server, If server goes down, all troubled
+Distributed VCS - Every developer has a full copy, fast and safe, example GIT 
