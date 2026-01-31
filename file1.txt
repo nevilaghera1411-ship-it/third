@@ -1,0 +1,7 @@
+A Version Control System is a tool that records changes made to files over time, so you can –
+
+Go back to older versions
+See who changed what
+Fix mistakes safely
+Work with others without chaos
+Basically, It’s a save history + undo + teamwork system for files (mostly code).
